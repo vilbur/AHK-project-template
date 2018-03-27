@@ -1,0 +1,5 @@
+# Class ChildClass  
+
+### Methods  
+
+  
